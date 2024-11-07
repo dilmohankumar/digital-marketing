@@ -1,0 +1,120 @@
+.footerb {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.footerc {
+  display: flex;
+  flex-direction: column;
+  margin-top: -26px;
+  gap: 0.7rem;
+  
+}
+
+.footerc p a{
+    color: rgba(53, 7, 235, 0.932);
+}
+.footerc a {
+  color: black;
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: 400;
+}
+.footerc h1 a {
+  font-weight: 500;
+}
+.footerc h1 {
+  text-decoration: none;
+}
+.footermm {
+  gap: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.footerb p {
+  /* gap: 0.5rem; */
+  display: flex;
+  flex-direction: column;
+}
+.footerb span {
+  display: flex;
+  flex-direction: column;
+  font-weight: 400;
+  color: rgba(53, 7, 235, 0.932);
+}
+.footerbg {
+  display: flex;
+  flex-direction: row;
+  gap: 6rem;
+  background: white;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-top: 2rem;
+  padding-top: 2rem;
+}
+.footerd h1 {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+}
+.footerd {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  font-size: 16px;
+  font-weight: 500;
+}
+.footerd p {
+  font-weight: 400;
+  color: rgba(53, 7, 235, 0.932);
+}
+.footera img {
+  width: 120px;
+  height: 4rem;
+}
+.footera {
+  gap: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.footerj {
+  width: 22rem;
+  font-weight: 400;
+  font-size: 1.3rem;
+}
+.footerin input {
+  width: 15rem;
+  height: 2.3rem;
+}
+.footerin button {
+  width: 6rem;
+  height: 2.3rem;
+  margin-left: 0.5rem;
+  background: blue;
+  color: white;
+  font-family: sans-serif;
+}
+.footerin {
+  display: inline-flex;
+}
+.footeric {
+  font-size: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+.footer-copyright {
+  color: white;
+  background-color: rgb(53, 81, 172);
+  padding: 1rem;
+  display: flex;
+}
+.fotterprivacy {
+  display: flex;
+  margin-left: 35rem;
+  color: rgb(255, 255, 255);
+  gap: 2rem;
+}
+.fotterprivacy li {
+  display: flex;
+  gap: 2rem;
+}
